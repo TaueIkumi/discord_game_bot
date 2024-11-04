@@ -2,6 +2,6 @@ __pycache__/
 Include/
 Lib/
 Scripts/
-*.config
+*.cfg
 *.env
 *.json
