@@ -19,3 +19,9 @@
 ・Mention Everyone
 ・Add Reactions
 ・Use Slash Commands
+
+
+```
+docker built -t game_lab .
+docker run -it -e DISCORD_BOT_TOKEN=your_discord_token discord_game_lab
+```
